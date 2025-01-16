@@ -9,6 +9,8 @@
 html {
     scroll-behavior: smooth;
     background-color: #d9dad9c9;
+    overflow-x: hidden;
+
 }
 
 /* Header */
@@ -393,7 +395,6 @@ section#home .btn-start {
         max-width: 150%;
         height: auto;
         border-radius: 10px;
-        margin-left: -15rem;
     }
 }
 
@@ -404,4 +405,17 @@ section#home .btn-start {
 }
 
 
+@media(max-width: 1530px){
+
+.msg-lateral{
+    margin-left: -60rem;
+}
+
+}
+
+@media(max-width: 1274px){
+    .msg-lateral {
+        margin-left: -45rem;
+    }
+}
 
