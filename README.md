@@ -59,7 +59,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## 📩 Contact
 If you have any questions or suggestions, feel free to reach out:
-📧 Email: your-email@example.com  
+📧 Email: laauramirellydesouza@gmail.com
 🔗 LinkedIn: (https://www.linkedin.com/in/laura-souza-4a729b252/)
 🐙 GitHub: https://github.com/LauraMilly
 
